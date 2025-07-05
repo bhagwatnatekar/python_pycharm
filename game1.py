@@ -1,3 +1,5 @@
+## User input as list item i.e Rock , Paper, Scissor same as it is.
+
 import random
 
 list_item = ["Rock", "Paper", "Scissor"]
